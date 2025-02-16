@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beateixeira04&label=Profile%20views&color=0e75b6&style=flat" alt="beateixeira04" /> </p>
 
-
+- ⚡ Curriculum **[CV](https://drive.google.com/file/d/1DGC_DxHBhLICjcW7MqIz75ksixmxDiSw/view?usp=sharing)**
 - ⚡ Fun fact **I do digital art and I'm part of a band**
 
 <h3 align="left">Connect with me:</h3>
